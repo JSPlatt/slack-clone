@@ -59,5 +59,7 @@ const HeaderAvatar = styled(Avatar)`
 `
 
 const HeaderSearch = styled.div`
-
+    flex: 0.4;
+    opacity: 1;
+    border-radius: 6px;
 `
